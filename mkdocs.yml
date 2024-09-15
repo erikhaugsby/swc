@@ -1,0 +1,23 @@
+site_name: How to use YouTube 
+
+markdown_extensions:
+    - def_list
+    - pymdownx.superfences
+    - pymdownx.tabbed:
+        alternate_style: true
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+
+plugins:
+  - glightbox
+
+theme: material
+
+nav:
+    - intro.md
+    - use.md
+    - upload.md
+    - etc.md
+
+
