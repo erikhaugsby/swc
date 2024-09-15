@@ -29,7 +29,9 @@ This page gives you step-by-step instructions for how to install the official Yo
         8. Type **YouTube**.
         9. If the YouTube app appears in the search results, the app is already installed and you can click on the icon to start using it.
 
-          <img src="ios_app-library.png" width="350" alt="iOS app library"/>
+          ![iOS app library](ios_app-library.png)
+          
+          img src="ios_app-library.png" width="350" alt="iOS app library"/>
 
 === "Android"
     
