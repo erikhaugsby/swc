@@ -29,10 +29,8 @@ This page gives you step-by-step instructions for how to install the official Yo
         8. Type **YouTube**.
         9. If the YouTube app appears in the search results, the app is already installed and you can click on the icon to start using it.
 
-          ![iOS app library](ios_app-library.png)
+          ![iOS app library](/docs/img/ios_app-library.png)
           
-          img src="ios_app-library.png" width="350" alt="iOS app library"/>
-
 === "Android"
     
     1. On your phone, click [this link](https://play.google.com/store/apps/details?id=com.google.android.youtube&pcampaignid=web_share) to open the Google Play page where you can download the YouTube app. (See the first screenshot below.) (Note that a **Open in another app** popup may appear. If it does, tap **Open** to open the link in the Google Play store.)
