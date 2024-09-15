@@ -19,7 +19,7 @@ This page gives you step-by-step instructions for how to install the official Yo
         3. Type **YouTube**.
         4. If the YouTube app appears in the search results, the app is already installed and you can click on the icon to start using it.
 
-         <img src="./android_app-drawer.png" width="350" alt="Android App Drawer"/>
+         <img src="/img/android_app-drawer.png" width="350" alt="Android App Drawer"/>
 
     === "Apple"
   
@@ -29,7 +29,7 @@ This page gives you step-by-step instructions for how to install the official Yo
         8. Type **YouTube**.
         9. If the YouTube app appears in the search results, the app is already installed and you can click on the icon to start using it.
 
-          <img src="./ios_app-library.png" width="350" alt="iOS app library"/>
+          <img src="/img/ios_app-library.png" width="350" alt="iOS app library"/>
 
 === "Android"
     
@@ -39,9 +39,9 @@ This page gives you step-by-step instructions for how to install the official Yo
     4. When the installation is completed successfully, the app icon will be appear on the last Home screen (i.e., the one furthest to the right). Tap the **Home** button and swipe to the left until you reach the last screen. (See the second screenshot below.)
     5. The YouTube app is now installed. You can now open the app and log in to your account, see [Login](./intro.md#login-to-youtube).
  
-     <img src="./android_google-play.png" width="350" alt="Android app store"/>
+     <img src="/img/android_google-play.png" width="350" alt="Android app store"/>
 
-     <img src="./android_youtube-icon.png" width="350" alt="YouTube app icon"/>
+     <img src="/img/android_youtube-icon.png" width="350" alt="YouTube app icon"/>
 
 === "Apple"
     
@@ -52,9 +52,9 @@ This page gives you step-by-step instructions for how to install the official Yo
     5. The app is now installed successfully. Tap the **Home** button and swipe to the left until you see the YouTube icon, then tap the icon. (The YouTube app icon is shown in the second screenshot, below.)
     6.  You can now open the app and log in to your account, see [Login](./intro.md#login-to-youtube).
      
-     <img src="./ios_app-store.jpeg" width="350" alt="iOS app store"/>
+     <img src="/img/ios_app-store.jpeg" width="350" alt="iOS app store"/>
 
-     <img src="./ios_youtube-icon.png" width="350" alt="iOS YouTube icon"/>
+     <img src="/img/ios_youtube-icon.png" width="350" alt="iOS YouTube icon"/>
 
 ## Login to YouTube
 
