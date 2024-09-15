@@ -8,9 +8,10 @@ This page gives you step-by-step instructions for how to install the official Yo
 
     The information on this page is accurate for phones that are up-to-date as of September, 2024. Depending on your phone and software version, the specific steps might differ to what is shown here.
 
-??? note "Read this before you start"
+!!! note "Read this before you start"
 
-    Is YouTube already installed on your phone? Some phones have the YouTube installed by default. Here's how to check if you already have the app: 
+    Some phones have the YouTube app installed by default. 
+    Here's how to check if your phone already has the YouTube app installed:
 
     === "Android"
   
@@ -29,7 +30,7 @@ This page gives you step-by-step instructions for how to install the official Yo
         8. Type **YouTube**.
         9. If the YouTube app appears in the search results, the app is already installed and you can click on the icon to start using it.
 
-          ![iOS app library](/docs/img/ios_app-library.png)
+          ![iOS app library](ios_app-library.png)
           
 === "Android"
     
