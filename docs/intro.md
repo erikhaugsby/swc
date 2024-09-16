@@ -38,7 +38,7 @@ This page gives you step-by-step instructions for how to install the official Yo
 If the YouTube app isn't already installed, follow the steps below:       
 === "Android"
     
-    1. First, read through all of these steps in order. It might help to have them open on another device as reference. 
+    1. First, read through all of these steps in order. It might help to have this page open on another device, as a reference. 
     2. Open this page on your phone.
     3. Click [this link](https://play.google.com/store/apps/details?id=com.google.android.youtube&pcampaignid=web_share) to open the Google Play page where you can download the YouTube app. (See the first screenshot below.) 
     4. Tap **Install** to install the app. The YouTube app is free to download and use. 
@@ -53,7 +53,7 @@ If the YouTube app isn't already installed, follow the steps below:
 
 === "Apple"
     
-    1. First, read through all of these steps in order. It might help to have them open on another device as reference. 
+    1. First, read through all of these steps in order. It might help to have this page open on another device, as a reference. 
     2. Open this page on your phone. 
     3. Click [this link](https://apps.apple.com/at/app/youtube/id544007664) to open the page in the official Apple app store where you can download the YouTube app. (See the first screenshot below.)
     4. Tap the blue "cloud download" icon to install the app. The YouTube app is free to download. 
