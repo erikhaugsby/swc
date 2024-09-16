@@ -20,7 +20,7 @@ This page gives you step-by-step instructions for how to install the official Yo
         3. Type **YouTube**.
         4. If the YouTube app appears in the search results, the app is already installed and you can click on the icon to start using it.
 
-          ![Android app drawer](https://swc.readthedocs.io/en/latest/android_app-drawer.png) 
+          ![Android app drawer](android_app-drawer.png) 
 
 
     === "Apple"
@@ -31,7 +31,7 @@ This page gives you step-by-step instructions for how to install the official Yo
         8. Type **YouTube**.
         9. If the YouTube app appears in the search results, the app is already installed and you can click on the icon to start using it.
 
-          ![iOS app library](https://swc.readthedocs.io/en/latest/ios_app-library.png)
+          ![iOS app library](ios_app-library.png)
           
 === "Android"
     
@@ -42,9 +42,9 @@ This page gives you step-by-step instructions for how to install the official Yo
     5. When the installation is completed successfully, the app icon will be appear on the last Home screen (i.e., the one furthest to the right). Tap the **Home** button and swipe to the left until you reach the last screen. (See the second screenshot below.)
     6. The YouTube app is now installed. You can now open the app and log in to your account, see [Login](./intro.md#login-to-youtube).
  
-     ![Android app store](https://swc.readthedocs.io/en/latest/android_google-play.png) 
+     ![Android app store](android_google-play.png) 
 
-     ![YouTube app icon](https://swc.readthedocs.io/en/latest/android_youtube-icon.png) 
+     ![YouTube app icon](android_youtube-icon.png) 
 
 
 === "Apple"
@@ -58,9 +58,9 @@ This page gives you step-by-step instructions for how to install the official Yo
     7.  You can now open the app and log in to your account, see [Login](./intro.md#login-to-youtube).
  
 
-     ![iOS app store](https://swc.readthedocs.io/en/latest/iso_app-store.png) 
+     ![iOS app store](ios_app-store.png) 
    
-      ![iOS YouTube icon](https://swc.readthedocs.io/en/latest/ios_youtube-icon.png) 
+      ![iOS YouTube icon](ios_youtube-icon.png) 
 
 ## Login to YouTube
 
