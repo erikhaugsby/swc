@@ -4,6 +4,10 @@
 
 This page gives you step-by-step instructions for how to install the official YouTube app on your Apple or Android smartphone.
 
+The YouTube app is free to download and use. You only need to have your phone and access to the internet. 
+
+Before you do anything else, read through all of these steps in order. It might help to have this page open on another device as a reference. 
+
 !!! note
 
     The information on this page is accurate for most Android and Apple phones that are up-to-date as of September, 2024. 
@@ -37,11 +41,10 @@ This page gives you step-by-step instructions for how to install the official Yo
 
 If the YouTube app isn't already installed, follow the steps below:       
 === "Android"
-    
-    1. First, read through all of these steps in order. It might help to have this page open on another device, as a reference. 
+     
     2. Open this page on your phone.
     3. Click [this link](https://play.google.com/store/apps/details?id=com.google.android.youtube&pcampaignid=web_share) to open the Google Play page where you can download the YouTube app. (See the first screenshot below.) 
-    4. Tap **Install** to install the app. The YouTube app is free to download and use. 
+    4. Tap **Install** to install the app. 
     5. The installation proceeds automatically.
     6. When the installation is completed successfully, the app icon is visible on the last Home screen (i.e., the one furthest to the right). Tap the "Home" button and swipe to the left until you reach the last screen. (See the second screenshot below.)
     7. The YouTube app is now installed. You can now open the app and set up your account, see [Login](./intro.md#login-to-youtube).
@@ -53,10 +56,9 @@ If the YouTube app isn't already installed, follow the steps below:
 
 === "Apple"
     
-    1. First, read through all of these steps in order. It might help to have this page open on another device, as a reference. 
     2. Open this page on your phone. 
     3. Click [this link](https://apps.apple.com/at/app/youtube/id544007664) to open the page in the official Apple app store where you can download the YouTube app. (See the first screenshot below.)
-    4. Tap the blue "cloud download" icon to install the app. The YouTube app is free to download. 
+    4. Tap the blue "cloud download" icon to install the app.
     5. The download proceeds automatically. Progress is indicated with a blue circular indicator.
     6. When the app is downloaded successfully, the "cloud download" icon becomes an **Open** button. 
     7. The app is now installed successfully. Tap the "Home" button and swipe to the left until you see the YouTube icon, then tap the icon. (The YouTube app icon is shown in the second screenshot, below.)
