@@ -69,4 +69,14 @@ If the YouTube app isn't already installed, follow the steps below:
 
 ## Login to YouTube
 
+!!! Note
+
+    This is a placeholder section. 
+    [Click here](./intro.md#getting-started) for installation instructions.
+
 ## Set up your account
+
+!!! Note
+
+    This is a placeholder section. 
+    [Click here](./intro.md#getting-started) for installation instructions.
