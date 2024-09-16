@@ -6,7 +6,7 @@ This page gives you step-by-step instructions for how to install the official Yo
 
 The YouTube app is free to download and use. You only need to have your phone and access to the internet. 
 
-Before you do anything else, read through all of these steps in order. It might help to have this page open on another device as a reference. 
+Before you do anything else, read through all of these steps in order. It might help to have this page open on another device for reference. 
 
 !!! note
 
